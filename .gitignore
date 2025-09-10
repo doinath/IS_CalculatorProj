@@ -1,0 +1,30 @@
+# Visual Studio cache and settings
+.vs/
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.log
+*.vsidx
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Others
+*.cache
+*.pdb
